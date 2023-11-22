@@ -1,3 +1,5 @@
+-- De las siguientes tablas, generar una consulta sql que identifique el(los) libros que al día de hoy 30/07/2021, el alumno de nombre Sonia tiene prestado(s), que no ha regresado y su préstamo esta vencido.
+
 -- Definición de la tabla "libros"
 CREATE TABLE libros (
   libro_id INT PRIMARY KEY,     -- Identificador único del libro

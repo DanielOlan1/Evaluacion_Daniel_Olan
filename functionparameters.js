@@ -1,3 +1,6 @@
+// Generar una función que reciba dos parámetros, los cuales determinen un inicio y un fin, y retorne los números primos gemelos que se encuentren dentro de éste rango. (Investigar que es un número primo gemelo)
+    
+
 // Importar el módulo readline para leer entrada desde la consola
 const readline = require('readline');
 

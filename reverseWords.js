@@ -1,3 +1,5 @@
+//Generar una función que reciba una cadena de caracteres y separe por espacios e imprima al revés cada uno de los resultados.
+
 // Importar el módulo readline para leer entrada desde la consola
 const readline = require('readline');
 

@@ -1,3 +1,5 @@
+// Generar una función que reciba como parámetros, un arreglo de datos enteros y un número entero y diga si la composición de la conjugación (la suma de uno o más valores únicos) de los datos del arreglo logran conformar el segundo parámetro.
+
 const readline = require('readline');
 
 const rl = readline.createInterface({

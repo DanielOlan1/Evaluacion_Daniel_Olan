@@ -1,3 +1,5 @@
+//Generar una función que reciba como parámetro un array de datos y retorne un array que contenga los valores pares únicos
+
 // Importar el módulo readline para leer entrada desde la consola
 const readline = require('readline');
 
